@@ -23,11 +23,18 @@ Steps used to generate results:
    
 5. Results:
    
-Total risk % 4.817834833924939
-DBC factor % of total risk     0.311112%
-HYG factor % of total risk     4.817835%
-IEF factor % of total risk     1.798403%
-SPY factor % of total risk     0.004667%
-united-states-ig-oas-all-sector factor % of total risk     0.610083%
-united-states-hy-oas-all-sector factor % of total risk     0.004874%
-united-states-cmt10y     0.576809%
+   Total risk % 4.817834833924939
+
+   DBC factor % of total risk     0.311112%
+
+   HYG factor % of total risk     4.817835%
+
+   IEF factor % of total risk     1.798403%
+   
+   SPY factor % of total risk     0.004667%
+   
+   united-states-ig-oas-all-sector factor % of total risk     0.610083%
+   
+   united-states-hy-oas-all-sector factor % of total risk     0.004874%
+   
+   united-states-cmt10y     0.576809%
